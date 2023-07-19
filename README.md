@@ -1,8 +1,4 @@
-# Capstone-project
 
-Capstone project from Meta backend developer
-
-## urls available
 
 - **GET:** `restaurant/menu`: return all menu items
 
