@@ -33,4 +33,7 @@ The following are some of the APIs that are incorporated in the application:
 
 ## Features and functionalities
 
-* 
+* User authentication
+* Menu management
+* Order management
+* Table bookings
